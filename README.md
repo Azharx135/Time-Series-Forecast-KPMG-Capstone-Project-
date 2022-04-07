@@ -1,0 +1,2 @@
+# Time-Series-Forecast-KPMG-Capstone-Project-
+We have been given a data of pesticides sales from 2014 to 2018. Using this data we need to predict the sales of the pesticides for ABC Manufacturing company. We saw that the data was stationary and had a seasonality component without trend. We will be using Holt-Winter's model and SARIMAX for predicting the sales based on the historical data we were provided with.
